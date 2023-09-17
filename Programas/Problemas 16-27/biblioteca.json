@@ -1,0 +1,20 @@
+{
+    "libros": [
+        {
+            "libro": {
+                "nombre": "El gran libro",
+                "a\u00f1o_edicion": 2022,
+                "autor": "Juan P\u00e9rez"
+            },
+            "cantidad": 5
+        },
+        {
+            "libro": {
+                "nombre": "Nuevo libro",
+                "a\u00f1o_edicion": 2023,
+                "autor": "Carlos Ram\u00edrez"
+            },
+            "cantidad": 2
+        }
+    ]
+}
